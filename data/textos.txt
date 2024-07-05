@@ -1,0 +1,164 @@
+Desenvolva as respostas a partir das informações que esse documento possui.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+Sobre a NGtek Informática:
+
+A NGtek Informática atua na área de TI e está situada no município de Vera Cruz-RS. A empresa foi fundada em 2007 tendo como objetivo inicial a prestação de serviços de assistência técnica e suporte a usuários. 
+
+Sentindo as necessidades no mercado em que atuava, logo passou a comercializar softwares e equipamentos de informática, sendo que, em 2008, passou a atuar também com automação comercial. Desta forma, define-se a vocação da NGtek como sendo a comercialização de equipamentos de informática, softwares, automação comercial e assistência técnica.
+
+Serviços oferecidos:
+
+Assistência técnica e suporte a usuários
+Venda de softwares e equipamentos de informática
+Automação comercial
+
+Especialidades:
+
+Instalação, configuração e manutenção de sistemas de TI
+Suporte técnico remoto e presencial
+Desenvolvimento e implementação de soluções de automação comercial
+Venda e instalação de equipamentos de rede e segurança
+
+Valores da empresa:
+
+Foco no cliente
+Excelência técnica
+Inovação
+Ética e transparência
+
+Informações adicionais:
+
+A NGtek é uma empresa certificada pela Microsoft e pela Intel.
+Possui uma equipe de profissionais qualificados e experientes.
+Atende a clientes em diversos setores, incluindo pequenas e médias empresas, indústrias e órgãos governamentais.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+A NGtek Informática trabalha nas seguintes áreas:
+
+Tecnologia da informação (TI): Fornece serviços e soluções de TI para empresas e organizações.
+Assistência técnica e suporte a usuários: Oferece suporte técnico para equipamentos e sistemas de TI.
+Venda de softwares e equipamentos de informática: Vende uma ampla gama de softwares e equipamentos de informática, incluindo computadores, notebooks, impressoras e servidores.
+Automação comercial: Desenvolve e implementa soluções de automação comercial para empresas, ajudando-as a otimizar seus processos de negócios.
+Instalação, configuração e manutenção de sistemas de TI: Instala, configura e mantém sistemas de TI, incluindo sistemas operacionais, aplicativos de software e equipamentos de rede.
+Suporte técnico remoto e presencial: Fornece suporte técnico remoto e presencial para resolver problemas e prestar assistência aos clientes.
+Desenvolvimento e implementação de soluções de automação comercial: Desenvolve e implementa soluções personalizadas de automação comercial para atender às necessidades específicas de cada cliente.
+Venda e instalação de equipamentos de rede e segurança: Vende e instala equipamentos de rede e segurança, como roteadores, switches e firewalls, para proteger e otimizar as redes de TI dos clientes.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+A sede da Ngtek Informática está localizada na Rua Ernesto Wild, 352 - Centro, Vera Cruz - RS, 96880-000. Porém, no momento está em obras e por este motivo está localizado na Rua Martim Francisco, 46 - Ao lado da Lotérica.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+Horário de atendimento da NGtek informática é: 
+segunda-feira	08:00–12:00, 13:30–18:00
+terça-feira	08:00–12:00, 13:30–18:00
+quarta-feira	08:00–12:00, 13:30–18:00
+quinta-feira	08:00–12:00, 13:30–18:00
+sexta-feira	08:00–12:00, 13:30–18:00
+sábado	08:30–12:00
+domingo	Fechado
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+Contatos Ngtek:
+
+Fernando Goelzer (CEO) 
+E-mail: fernando@ngtek.com.br 
+Telefone: (51) 99878-7115
+
+Gustavo Mohr (Suporte/Técnico) 
+E-mail: gustavo@ngtek.com.br 
+Telefone: (51) 99878-7144
+
+Leonardo Reuter (Suporte/Técnico) 
+E-mail: leonardo@ngtek.com.br 
+Telefone: (51) 99588-6846
+
+Tainã Tavares (Suporte/Técnico) 
+E-mail: taina@ngtek.com.br 
+Telefone: (51) 99783-5594
+
+Annа Carolina (Administativo/Financeiro) 
+E-mail: ngtek@ngtek.com.br 
+(51) 99782-9071
+
+Equipe NGTEK 
+Telefone/Whatsapp: (51) 3718-2507 
+Instagram: @ngtekinformatica 
+R. Martim Francisco, 46- Centro, Vera Cruz -RS
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+Proprietario e fundador da Ngtek é Fernando Goelzer.
+
+Experiência
+
+Diretor
+NGTEK INFORMATICA
+dez. de 2007 - o momento 16 anos 8 meses
+
+Gráfico JTI (Japan Tobacco International)
+Technical Support Assistant
+JTI (Japan Tobacco International)
+
+Formação acadêmica
+
+Faculdade Dom Alberto
+Bacharelado em Administração
+2007 - 2016
+
+CEFET SAO VICENTE DO SUL - RS
+Técnico Informática Information Technology
+2003 - 2004
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+A Ngtek comercializa um sistema de automação do notas fiscas (NFe, NFCe, MDFe entre outros), em dois modelos: Software (ClippPro) e Web (Clipp360).
+Esse sistema possui a integração das notas fiscais com a venda em maquininhas POS, sem a necessidade de instalar um PinPad e TEF, sendo mais economico que os demais sistemas.
+O valor mensal do sistema é R$139,90.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+Temos e-commerce no mercado livre também, onde vendemos baterias de notebooks, teclados, etc.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+Quando a pessoa disser Oi/olá/bom dia/noite/tarde, pergunte como a pessoa está e desenvolva uma conversa de preciso.
+
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+A Ngtek comercializa um sistema de automação do notas fiscas (NFe, NFCe, MDFe entre outros), em dois modelos: Software (ClippPro) e Web (Clipp360).
+Esse sistema possui a integração das notas fiscais com a venda em maquininhas POS, sem a necessidade de instalar um PinPad e TEF, sendo mais economico que os demais sistemas.
+O valor mensal do sistema é R$139,90.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+Temos e-commerce no mercado livre também, onde vendemos baterias de notebooks, teclados etc
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+A empresa possui o Fernando como dono e proprietario da empresa. Gustavo, Tainã e Leonardo como técnicos e a Anna como financeiro e administrativo.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+O valor de um chamado técnico é de R$90,00 quando o atendimento é na cidade de Vera Cruz e em cidades vizinhas está R$100,00.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+O chamado técnico oferece assistência técnica à infraestrutura de TI, ou seja, atendimento voltado à área técnica de algum produto ou serviço para uma empresa ou pessoa física.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+O Pacote Office com ativação e instalação é R$90,00.
+
+Ativação do Pacote Office é R$45,00 e Instalação R$45,00.
+
+#---------------------------------------------------------------------------------------------------------------------------------------#
+
+
+

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suporte NGtek</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='image.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <div>
+        <h1 class="title">SEJA BEM-VINDO AO SUPORTE NGTEK!</h1>
+    </div>
+    <div id="chatbox">
+        <div id="messages"></div>
+        <input type="text" id="user-input" placeholder="Digite sua pergunta aqui...">
+        <button id="send-btn">Enviar</button>
+    </div>
+
+    <script>
+        function formatBotResponse(response) {
+            return response.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>').replace(/\n/g, '<br>');
+        }
+
+        function sendMessage() {
+            const userInput = document.getElementById('user-input').value.trim();
+            if (userInput === "") return;
+
+            const userMessageDiv = document.createElement('div');
+            userMessageDiv.className = 'message user';
+            userMessageDiv.innerHTML = '<strong class="user-strong">Usuário:</strong> ' + userInput;
+            document.getElementById('messages').appendChild(userMessageDiv);
+
+            const botMessageDiv = document.createElement('div');
+            botMessageDiv.className = 'message bot';
+            botMessageDiv.innerHTML = '<strong class="bot-strong">Suporte:</strong> ...';
+            document.getElementById('messages').appendChild(botMessageDiv);
+
+            fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ message: userInput }),
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Erro ao se comunicar com o servidor.');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    if (data && data.response) {
+                        const formattedResponse = formatBotResponse(data.response);
+                        botMessageDiv.innerHTML = '<strong class="bot-strong">Suporte:</strong> ' + formattedResponse;
+                    } else {
+                        botMessageDiv.innerHTML = '<strong class="bot-strong">Suporte:</strong> Desculpe, não consegui entender.';
+                    }
+                })
+                .catch(error => {
+                    botMessageDiv.innerHTML = '<strong class="bot-strong">Suporte:</strong> Ocorreu um erro: ' + error.message;
+                });
+
+            document.getElementById('user-input').value = "";
+            document.getElementById('messages').scrollTop = document.getElementById('messages').scrollHeight;
+        }
+
+        document.getElementById('send-btn').addEventListener('click', sendMessage);
+
+        document.getElementById('user-input').addEventListener('keypress', function (event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        });
+    </script>
+</body>
+
+</html>
