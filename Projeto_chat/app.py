@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, render_template
 import google.generativeai as genai
 import logging
+import time
 
 app = Flask(__name__)
 
@@ -9,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Configure a chave API
 try:
-    genai.configure(api_key="AIzaSyBJTeFoirEKS6y1b0T5Mn95ZiBBMJN9ybg")
+    genai.configure(api_key="AIzaSyC9ujrMwrQ_dUWgw8Csp4m3x_n0gBVkNKU")
     model = genai.GenerativeModel('gemini-pro')
     logging.info("Modelo generativo configurado com sucesso.")
 except Exception as e:
@@ -32,6 +33,7 @@ def index():
 
 @app.route('/chat', methods=['POST'])
 def chat_response():
+    time.sleep(5)
     data = request.json
     user_input = data.get('message')
     textos = ler_textos()
